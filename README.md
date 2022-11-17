@@ -15,5 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-
-https://www.codewars.com/users/klimov-rv/badges/micro
+![Image](https://www.codewars.com/users/klimov-rv/badges/large)
